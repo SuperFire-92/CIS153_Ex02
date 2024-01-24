@@ -1,0 +1,10 @@
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex02\CIS153_01-23-2024_ButtonsAndLabels\CIS153_01-23-2024_ButtonsAndLabels\bin\Debug\CIS153_01-23-2024_ButtonsAndLabels.exe.config
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex02\CIS153_01-23-2024_ButtonsAndLabels\CIS153_01-23-2024_ButtonsAndLabels\bin\Debug\CIS153_01-23-2024_ButtonsAndLabels.exe
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex02\CIS153_01-23-2024_ButtonsAndLabels\CIS153_01-23-2024_ButtonsAndLabels\bin\Debug\CIS153_01-23-2024_ButtonsAndLabels.pdb
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex02\CIS153_01-23-2024_ButtonsAndLabels\CIS153_01-23-2024_ButtonsAndLabels\obj\Debug\CIS153_01-23-2024_ButtonsAndLabels.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex02\CIS153_01-23-2024_ButtonsAndLabels\CIS153_01-23-2024_ButtonsAndLabels\obj\Debug\CIS153_01_23_2024_ButtonsAndLabels.Form1.resources
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex02\CIS153_01-23-2024_ButtonsAndLabels\CIS153_01-23-2024_ButtonsAndLabels\obj\Debug\CIS153_01_23_2024_ButtonsAndLabels.Properties.Resources.resources
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex02\CIS153_01-23-2024_ButtonsAndLabels\CIS153_01-23-2024_ButtonsAndLabels\obj\Debug\CIS153_01-23-2024_ButtonsAndLabels.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex02\CIS153_01-23-2024_ButtonsAndLabels\CIS153_01-23-2024_ButtonsAndLabels\obj\Debug\CIS153_01-23-2024_ButtonsAndLabels.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex02\CIS153_01-23-2024_ButtonsAndLabels\CIS153_01-23-2024_ButtonsAndLabels\obj\Debug\CIS153_01-23-2024_ButtonsAndLabels.exe
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex02\CIS153_01-23-2024_ButtonsAndLabels\CIS153_01-23-2024_ButtonsAndLabels\obj\Debug\CIS153_01-23-2024_ButtonsAndLabels.pdb
